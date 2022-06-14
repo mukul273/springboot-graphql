@@ -12,8 +12,8 @@ either on maven or gradle
 <version>12.0.0</version>
 </dependency>
 
--- Please refer below URL for version and more information:
-[https://github.com/graphql-java-kickstart/graphql-spring-boot] (https://github.com/graphql-java-kickstart/graphql-spring-boot)
+-- Please refer below URL for version and more information:  
+[https://github.com/graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot)
 
 
 
